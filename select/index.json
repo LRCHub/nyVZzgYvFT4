@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "私はかまいません",
+  "base_artist": "ウルトラ寿司ふぁいやー",
+  "createdAt": "2025-12-14T11:30:37.265512Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "私はかまいません",
+      "artist": "ウルトラ寿司ふぁいやー",
+      "has_synced": false,
+      "path": "select/pl_01_私はかまいません_ウルトラ寿司ふぁいやー.txt"
+    }
+  ]
+}
